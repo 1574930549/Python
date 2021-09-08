@@ -1,0 +1,9 @@
+https://mooc1-1.chaoxing.com/mycourse/studentcourse?courseId=86455372&clazzid=19210438&vc=1&cpi=65640300&enc=e38a7aafeecaf3dbe1371c7fc2c1b641
+
+
+urlInit = 'https://mooc1.chaoxing.com/course/208937274.html'
+
+urlK = 'https://mooc1.chaoxing.com/nodedetailcontroller/visitnodedetail?courseId=208937274&knowledgeId=157025173'
+
+workUrl = 'https://mooc1.chaoxing.com/api/selectWorkQuestion?workId=c689ce4741b14bdcaa990d04c5bdada6&ut=null&classId=0&courseId=208937274&utenc=null'
+
